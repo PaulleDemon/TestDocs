@@ -18,7 +18,7 @@ You can use the site at [https://atmailwin.com](https://atmailwin.com)
 
 ## Features
 
-* Create dynamic email templates.
+* Create dynamic `email templates`.
 * Use variables, if statements in your email template.
 * Schedule email.
 * Schedule Follow-ups (follow-ups increases the chance of receiving response from recipient).
