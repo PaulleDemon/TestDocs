@@ -3,8 +3,10 @@ A repo for testing docs
 
 
 <p align="center">
-  <img src="logos/atmailwin-logo.svg" alt="CupidCues icon" width="200px" height="200px"/>
+  <img src="https://github.com/PaulleDemon/Email-automation/blob/master/logos/atmailwin-logo.svg" alt="CupidCues icon" width="200px" height="200px"/>
 </p>
+
+![another image](https://github.com/PaulleDemon/PaulleDemon/raw/main/images/buy-me-coffee.png?raw=true)
 
 A free and open-source email automation tool. Schedule, personalize and send!
 <br/>
