@@ -1,6 +1,6 @@
 # Test this is cool
 
-wow this is `this is inlinecode`
+wow this is `this is inlinecode` but cool
 
 ```py
 def python_code:
