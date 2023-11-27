@@ -41,7 +41,7 @@ Feedback on AtMailWin
 ```
 
 Body
-```
+```plain
 Hello {{name}},
 Hope you are doing well. I am {{from_name}} reaching out to you to
 inquire about your experience using this automation platform. It 
@@ -85,7 +85,7 @@ pip install -r requirements.txt
 ```
 
 add a .env file inside the email_automation folder with the following 
-```
+```plain
 DEBUG=1
 DOMAIN=""
 SECRET_KEY=""
