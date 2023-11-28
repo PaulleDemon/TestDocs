@@ -120,7 +120,7 @@ Run database creation queries using
 python manage.py migrate
 ```
 
-```
+```py
 from django import *
 
 class CodeDivExtension(Extension):
