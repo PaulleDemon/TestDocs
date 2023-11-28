@@ -120,6 +120,17 @@ Run database creation queries using
 python manage.py migrate
 ```
 
+```
+from django import *
+
+class CodeDivExtension(Extension):
+    def extendMarkdown(self, md):
+        md.registerExtension(self)
+        md.preprocessors.register(CodeDivPreprocessor(md), 'codediv', 15)
+        md.postprocessors.register(CodeDivPostprocessor(md), 'codedivpost', 0)
+
+```
+
 now run the website using 
 ```
 python manage.py runserver
