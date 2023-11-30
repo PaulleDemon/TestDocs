@@ -17,6 +17,11 @@
 	"name": "Quick guide",
 	"path": "documentation/index.md",
 	"url": "docs/"
+   },
+  {
+	"name": "Amazing guide",
+	"path": "documentation/second-level/index.md",
+	"url": "docs/amazing/"
    }
 ],
   "doc_type": "pgm-lng",
